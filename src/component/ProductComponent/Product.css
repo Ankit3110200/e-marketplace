@@ -1,0 +1,23 @@
+.rating {
+    color: white;
+    border-radius: 5px;
+}
+
+.bi {
+    vertical-align: -2px !important;
+}
+
+.org-price {
+    display: inline;
+    margin: 10px;
+    color: #979494;
+}
+
+.discount {
+    display: inline;
+    background-color: #8BE0EC;
+    font-size: 10px;
+    color: black;
+    border-radius: 2px;
+    padding: 2px 3px;
+}

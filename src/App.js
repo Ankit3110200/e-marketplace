@@ -1,8 +1,10 @@
 import React from 'react';
-const App=()=>{
+import HomeComponent from './component/HomeComponent/Home';
+
+const App = () => {
   return (
     <div>
-      hello world
+      <HomeComponent />
     </div>
   );
 }

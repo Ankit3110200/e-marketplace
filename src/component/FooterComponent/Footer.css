@@ -1,0 +1,17 @@
+.fs{
+    font-family: 'Roboto' !important;
+}
+
+ul{
+    list-style: none;
+}
+
+input{
+    outline: none;
+    padding: 1px;
+    font-size: smaller;
+}
+
+button{
+    border: none;
+}
